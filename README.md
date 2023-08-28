@@ -1,7 +1,7 @@
 ### Olá Mundo! 🖐️🌎💻
   Me chamo Tharlis David e sou fascinado por tecnologia, aqui é o espaço onde compartilho minha jornada, paixões e conquistas. 
 Explore minhas experiências e evoluções, pois acredito no aprendizado e na conexão em cada encontro. 
-Fique à vontade para commitar, iniciar conversas e construir pontes de conhecimento. Agradeço por dedicar seu tempo aqui, vamos enriquecer nossas trajetórias juntos.
+Fique à vontade para comitar, iniciar conversas e construir pontes de conhecimento. Agradeço por dedicar seu tempo aqui, vamos enriquecer nossas trajetórias juntos.
 
 "A tecnologia molda o presente e esculpe o futuro."
 
