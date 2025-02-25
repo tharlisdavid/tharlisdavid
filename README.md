@@ -5,7 +5,7 @@ Fique à vontade para comitar, iniciar conversas e construir pontes de conhecime
 
 "A tecnologia molda o presente e esculpe o futuro."
 
-[![Tharlis](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharlis-david-8ba3b5256/)
+[![Tharlis](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharlisdavid/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tharlisdavid/)
 [![tharlis.tecnologia@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharlis.tecnologia@gmail.com)
 
